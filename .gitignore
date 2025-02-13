@@ -1,1 +1,10 @@
 *.fif
+.DS_Store
+data/.DS_Store
+data/Concatenated_events/.DS_Store
+data/RM_First_Epoch/.DS_Store
+data/RM_First_Epoch/RM/.DS_Store
+data/RM_Second_Epoch/.DS_Store
+data/RM_Second_Epoch/RM/.DS_Store
+*.h5
+*.npy
