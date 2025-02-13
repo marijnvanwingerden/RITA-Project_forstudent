@@ -8,3 +8,4 @@ data/RM_Second_Epoch/.DS_Store
 data/RM_Second_Epoch/RM/.DS_Store
 *.h5
 *.npy
+*.png
